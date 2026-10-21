@@ -1,4 +1,3 @@
 sudo docker pull postgres:16
-
-  sudo apt install docker-compose
-  sudo docker compose -d
+sudo apt install docker-compose
+sudo docker compose -d
